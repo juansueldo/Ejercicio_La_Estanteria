@@ -60,7 +60,7 @@ namespace Ejercicio_01.Class
                     {
                         e._productos[i] = p;
                         retorno = true;
-
+                        break;
                     }
                 }
             }
