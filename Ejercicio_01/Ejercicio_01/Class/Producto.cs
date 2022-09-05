@@ -62,8 +62,7 @@ namespace Ejercicio_01.Class
                     retorno = true;
                 }
             }
-            
-            return true;
+            return retorno;
         }
         public static explicit operator string(Producto p)
         {

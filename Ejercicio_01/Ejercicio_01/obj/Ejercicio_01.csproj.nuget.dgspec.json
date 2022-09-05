@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juan\\Desktop\\Laboratorio y Programacion II 2022\\Clase 05\\Ejercicio_01\\Ejercicio_01\\Ejercicio_01.csproj": {}
+    "C:\\Users\\Juan\\Desktop\\Ejercicio_La_Estanteria\\Ejercicio_01\\Ejercicio_01\\Ejercicio_01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juan\\Desktop\\Laboratorio y Programacion II 2022\\Clase 05\\Ejercicio_01\\Ejercicio_01\\Ejercicio_01.csproj": {
+    "C:\\Users\\Juan\\Desktop\\Ejercicio_La_Estanteria\\Ejercicio_01\\Ejercicio_01\\Ejercicio_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan\\Desktop\\Laboratorio y Programacion II 2022\\Clase 05\\Ejercicio_01\\Ejercicio_01\\Ejercicio_01.csproj",
+        "projectUniqueName": "C:\\Users\\Juan\\Desktop\\Ejercicio_La_Estanteria\\Ejercicio_01\\Ejercicio_01\\Ejercicio_01.csproj",
         "projectName": "Ejercicio_01",
-        "projectPath": "C:\\Users\\Juan\\Desktop\\Laboratorio y Programacion II 2022\\Clase 05\\Ejercicio_01\\Ejercicio_01\\Ejercicio_01.csproj",
+        "projectPath": "C:\\Users\\Juan\\Desktop\\Ejercicio_La_Estanteria\\Ejercicio_01\\Ejercicio_01\\Ejercicio_01.csproj",
         "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan\\Desktop\\Laboratorio y Programacion II 2022\\Clase 05\\Ejercicio_01\\Ejercicio_01\\obj\\",
+        "outputPath": "C:\\Users\\Juan\\Desktop\\Ejercicio_La_Estanteria\\Ejercicio_01\\Ejercicio_01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
