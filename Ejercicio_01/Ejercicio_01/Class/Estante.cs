@@ -88,7 +88,7 @@ namespace Ejercicio_01.Class
             sb.AppendLine($"UBICACION {e._ubicacionEstante}");
             for (int i = 0; i < e._productos.Length; i++)
             {
-                if (!Object.ReferenceEquals(e._productos[i], null))
+                if (!(e._productos[i] is null))
                 {
                     sb.AppendLine(Producto.MostrarProducto(e._productos[i]));
 
