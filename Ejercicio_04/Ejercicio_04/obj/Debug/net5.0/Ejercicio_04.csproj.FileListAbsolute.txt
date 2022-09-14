@@ -1,0 +1,16 @@
+C:\Users\Juan\Desktop\Ejercicios_En_Clase\Ejercicio_04\Ejercicio_04\bin\Debug\net5.0\Ejercicio_04.exe
+C:\Users\Juan\Desktop\Ejercicios_En_Clase\Ejercicio_04\Ejercicio_04\bin\Debug\net5.0\Ejercicio_04.deps.json
+C:\Users\Juan\Desktop\Ejercicios_En_Clase\Ejercicio_04\Ejercicio_04\bin\Debug\net5.0\Ejercicio_04.runtimeconfig.json
+C:\Users\Juan\Desktop\Ejercicios_En_Clase\Ejercicio_04\Ejercicio_04\bin\Debug\net5.0\Ejercicio_04.runtimeconfig.dev.json
+C:\Users\Juan\Desktop\Ejercicios_En_Clase\Ejercicio_04\Ejercicio_04\bin\Debug\net5.0\Ejercicio_04.dll
+C:\Users\Juan\Desktop\Ejercicios_En_Clase\Ejercicio_04\Ejercicio_04\bin\Debug\net5.0\ref\Ejercicio_04.dll
+C:\Users\Juan\Desktop\Ejercicios_En_Clase\Ejercicio_04\Ejercicio_04\bin\Debug\net5.0\Ejercicio_04.pdb
+C:\Users\Juan\Desktop\Ejercicios_En_Clase\Ejercicio_04\Ejercicio_04\obj\Debug\net5.0\Ejercicio_04.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\Ejercicios_En_Clase\Ejercicio_04\Ejercicio_04\obj\Debug\net5.0\Ejercicio_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Desktop\Ejercicios_En_Clase\Ejercicio_04\Ejercicio_04\obj\Debug\net5.0\Ejercicio_04.AssemblyInfoInputs.cache
+C:\Users\Juan\Desktop\Ejercicios_En_Clase\Ejercicio_04\Ejercicio_04\obj\Debug\net5.0\Ejercicio_04.AssemblyInfo.cs
+C:\Users\Juan\Desktop\Ejercicios_En_Clase\Ejercicio_04\Ejercicio_04\obj\Debug\net5.0\Ejercicio_04.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\Ejercicios_En_Clase\Ejercicio_04\Ejercicio_04\obj\Debug\net5.0\Ejercicio_04.dll
+C:\Users\Juan\Desktop\Ejercicios_En_Clase\Ejercicio_04\Ejercicio_04\obj\Debug\net5.0\ref\Ejercicio_04.dll
+C:\Users\Juan\Desktop\Ejercicios_En_Clase\Ejercicio_04\Ejercicio_04\obj\Debug\net5.0\Ejercicio_04.pdb
+C:\Users\Juan\Desktop\Ejercicios_En_Clase\Ejercicio_04\Ejercicio_04\obj\Debug\net5.0\Ejercicio_04.genruntimeconfig.cache
